@@ -1,5 +1,5 @@
-# Reinforcement Learning
-## Project: Train a Smartcab to Drive
+# Deep Learning
+## Project: Image Classification
 ### Files Description
 It contains four files:
 - `project description.md`: Project overview, highlights, evaluation and software requirement. **Read Firstly**
